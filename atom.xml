@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xzying147.github.io</id>
     <title>Gridea</title>
-    <updated>2024-02-21T10:00:32.705Z</updated>
+    <updated>2024-02-22T01:36:37.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xzying147.github.io"/>
     <link rel="self" href="https://xzying147.github.io/atom.xml"/>
@@ -10,4 +10,37 @@
     <logo>https://xzying147.github.io/images/avatar.png</logo>
     <icon>https://xzying147.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[# NCBI Datasets]]></title>
+        <id>https://xzying147.github.io/post/ncbi-datasets/</id>
+        <link href="https://xzying147.github.io/post/ncbi-datasets/">
+        </link>
+        <updated>2024-02-22T01:34:37.000Z</updated>
+        <content type="html"><![CDATA[<p>https://www.ncbi.nlm.nih.gov/datasets</p>
+<p>This zip archive contains an NCBI Datasets Data Package.</p>
+<p>NCBI Datasets Data Packages can include sequence, annotation and other data files, and metadata in one or more data report files.<br>
+Data report files are in JSON Lines format.</p>
+<hr>
+<h2 id="faqs">FAQs</h2>
+<h3 id="where-is-the-data-i-requested">Where is the data I requested?</h3>
+<p>Your data is in the subdirectory <code>ncbi_dataset/data/</code> contained within this zip archive.</p>
+<h3 id="i-still-cant-find-my-data-can-you-help">I still can't find my data, can you help?</h3>
+<p>We have identified a bug affecting Mac Safari users. When downloading data from the NCBI Datasets web interface, you may see only this README file after the download has completed (while other files appear to be missing).<br>
+As a workaround to prevent this issue from recurring, we recommend disabling automatic zip archive extraction in Safari until Apple releases a bug fix.<br>
+For more information, visit:<br>
+https://www.ncbi.nlm.nih.gov/datasets/docs/reference-docs/mac-zip-bug/</p>
+<h3 id="how-do-i-work-with-json-lines-data-reports">How do I work with JSON Lines data reports?</h3>
+<p>Visit our JSON Lines data report documentation page:<br>
+https://www.ncbi.nlm.nih.gov/datasets/docs/v2/tutorials/working-with-jsonl-data-reports/</p>
+<h3 id="what-is-ncbi-datasets">What is NCBI Datasets?</h3>
+<p>NCBI Datasets is a new resource that lets you easily gather data from across NCBI databases. Find and download gene, transcript, protein and genome sequences, annotation and metadata.</p>
+<h3 id="where-can-i-find-ncbi-datasets-documentation">Where can I find NCBI Datasets documentation?</h3>
+<p>Visit the NCBI Datasets documentaion pages:<br>
+https://www.ncbi.nlm.nih.gov/datasets/docs/</p>
+<hr>
+<p>National Center for Biotechnology Information<br>
+National Library of Medicine<br>
+info@ncbi.nlm.nih.gov</p>
+]]></content>
+    </entry>
 </feed>
