@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xzying147.github.io</id>
-    <title>Gridea</title>
-    <updated>2024-02-22T02:00:11.938Z</updated>
+    <title>自言</title>
+    <updated>2024-02-22T02:05:18.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xzying147.github.io"/>
     <link rel="self" href="https://xzying147.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>生信菜鸟的学习笔记记录</subtitle>
     <logo>https://xzying147.github.io/images/avatar.png</logo>
     <icon>https://xzying147.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2024, Gridea</rights>
+    <rights>All rights reserved 2024, 自言</rights>
     <entry>
         <title type="html"><![CDATA[# NCBI Datasets]]></title>
         <id>https://xzying147.github.io/post/ncbi-datasets/</id>
