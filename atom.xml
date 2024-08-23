@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xzying147.github.io/</id>
+    <title>Learning Notes</title>
+    <updated>2024-08-23T10:15:26.669Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xzying147.github.io/"/>
+    <link rel="self" href="https://xzying147.github.io/atom.xml"/>
+    <subtitle>放个博客逼自己整理已经学过的知识，同时也方便以后需要时来回顾</subtitle>
+    <logo>https://xzying147.github.io/images/avatar.png</logo>
+    <icon>https://xzying147.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Learning Notes</rights>
+    <entry>
+        <title type="html"><![CDATA[Test Again]]></title>
+        <id>https://xzying147.github.io/post/test-again/</id>
+        <link href="https://xzying147.github.io/post/test-again/">
+        </link>
+        <updated>2024-08-23T10:12:19.000Z</updated>
+        <content type="html"><![CDATA[<p>We test.<img src="https://xzying147.github.io//post-images/1724407974334.bmp" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown编辑器——Typora的使用]]></title>
+        <id>https://xzying147.github.io/post/test/</id>
+        <link href="https://xzying147.github.io/post/test/">
+        </link>
+        <updated>2024-08-23T08:51:32.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>Markdown是一种文章样式标记规则，需要有专门的文字编辑软件才可以使用。<br>
+建议使用 Typora （Typora — a markdown editor, markdown reader.）这个软件进行使用</p>
+<h2 id="typora使用案例">Typora使用案例</h2>
+<h3 id="1-标题样式">1- 标题样式</h3>
+<p>按下Ctrl+1，可以设置1级标题样式，按下Ctrl+2，设置2级标题样式，不同标记样式按下对应Ctrl+数字就可以了。<br>
+按下Ctrl+shift+1打开【大纲视图】，还可以查看文章大纲结构。</p>
+<h3 id="2-字体样式">2- 字体样式</h3>
+<p><strong>1- Ctrl+B，文本加粗</strong><br>
+<em>2- Ctrl+I，斜体</em><br>
+3- Ctrl+U，下划线</p>
+<h3 id="3-特殊公式">3- 特殊公式</h3>
+<p>1- 代码。Ctrl+Shift+~<br>
+2- 超链接。Ctrl+K<br>
+3- 图片。截图后，Ctrl+V粘贴</p>
+]]></content>
+    </entry>
+</feed>
